@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## GitHub Stats
 
-![Kapilansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilansh-10&show_icons=true&theme=radical)
+![Kapilansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilansh-10&show_icons=true&theme=radical&cache_buster=1)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kapilansh-10&style=flat-square&color=blue)
 
