@@ -28,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Languages Usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## GitHub Stats
 
 ![Kapilansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilansh-10)]
