@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Languages Usage
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilansh-10&layout=donut)](https://github.com/kapilansh-10/github-readme-stats)
 
 ## GitHub Stats
 
