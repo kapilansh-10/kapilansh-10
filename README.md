@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
