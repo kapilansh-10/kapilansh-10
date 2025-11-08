@@ -38,8 +38,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Profile Views](https://komarev.com/ghpvc/?username=kapilansh-10&style=flat-square&color=blue)
 
 ## Get In Touch
-
-- LinkedIn: [My Linkedin](https://www.linkedin.com/in/kapilansh-p-1a3b92157/)
 - Email: [kapilpatil2004@gmail.com](mailto:kapilpatil2004@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
