@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A177FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Kapilansh;Full+Stack+Developer+%F0%9F%92%BB;Backend+Enthusiast+%F0%9F%9A%80;DevOps+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A177FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Kapilansh;Full+Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F)
 
   <a href="https://github.com/kapilansh-10">
     <img src="https://komarev.com/ghpvc/?username=kapilansh-10&style=for-the-badge&color=A177FF" alt="Profile Views" />
@@ -106,19 +106,39 @@ const kapilansh: Developer = {
 
 <br/>
 
+## 🚀 Featured Projects
+
+### 🖌️ [Drawboard](https://github.com/kapilansh-10/Drawboard)
+A creative drawing board application built to unleash digital creativity.
+*   **Stack:** [Add your stack here, e.g., React, Canvas API]
+*   **Features:** Real-time drawing, multiple tools, save functionality.
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kapilansh-10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Kapilansh's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilansh-10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kapilansh-10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=58A6FF&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilansh-10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=c9d1d9" />
+</div>
+
+<br/>
+
+<!-- Added Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilansh-10&theme=radical&hide_border=true&background=0D1117&ring=A177FF&fire=58A6FF&currStreakLabel=A177FF" alt="GitHub Streak" />
 
 <br/>
 <br/>
 
 ### 📈 Contribution Graph
 
-[![Kapilansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kapilansh-10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=A177FF&point=58A6FF&area=true&area_color=A177FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kapilansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kapilansh-10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=A177FF&point=58A6FF)](https://github.com/kapilansh-10)
 
 </div>
 
@@ -146,11 +166,13 @@ const kapilansh: Developer = {
 
 ## 📫 Let's Connect!
 
+<!-- Expanded Socials - Add your URLs or remove lines as needed -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilpatil2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilansh-10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-here)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle-here) -->
 
 <br/>
-
 ### 💬 Feel free to reach out for:
 ✨ Collaboration on interesting projects  
 💼 Backend development opportunities  
@@ -168,10 +190,5 @@ const kapilansh: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%8C%9F" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Happy+Coding+from+Kapilansh!+%F0%9F%9A%80" />
 </div>
-
-<!---
-kapilansh-10/kapilansh-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
