@@ -1,46 +1,176 @@
-# Hi there, I'm Kapilansh 👋
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A177FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Kapilansh;Full+Stack+Developer+%F0%9F%92%BB;Backend+Enthusiast+%F0%9F%9A%80;DevOps+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies.
+  <a href="https://github.com/kapilansh-10">
+    <img src="https://komarev.com/ghpvc/?username=kapilansh-10&style=for-the-badge&color=A177FF" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/kapilansh-10?tab=followers">
+    <img src="https://img.shields.io/github/followers/kapilansh-10?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
+  </a>
 
-## About Me
+  <br/>
+  <br/>
 
-- 🌱 I’m currently learning **Backend Development**
-- 💼 I'm working on various web development projects and contributing to open-source
-- 📫 How to reach me: [kapilpatil2004@gmail.com](mailto:kapilpatil2004@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess
+  **Welcome to my digital playground!** 🎮  
+  I'm a passionate full-stack developer crafting amazing web experiences and exploring the DevOps universe.
 
-## My Skills
+</div>
 
-### Languages
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Frameworks & Libraries
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<br/>
 
-### Tools
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 👨‍💻 About Me
 
-### Languages Usage
+```typescript
+const kapilansh: Developer = {
+  name: "Kapilansh",
+  location: "India 🇮🇳",
+  code: ["JavaScript", "TypeScript", "C++", "Python", "HTML", "CSS"],
+  askMeAbout: ["Web Dev", "Backend Architecture", "DevOps", "APIs"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      database: ["PostgreSQL", "MySQL", "MongoDB"],
+      orm: ["Prisma"],
+      apis: ["REST", "GraphQL"]
+    },
+    devOps: ["Docker 🐳", "Kubernetes ☸️", "Git", "GitHub", "Vercel"],
+    tools: ["VS Code", "Postman"]
+  },
+  currentFocus: "Mastering Backend Development & Cloud Technologies",
+  funFact: "I solve puzzles 🧩 and play chess ♟️ when I'm not coding!",
+  lifePhilosophy: "Code, Learn, Repeat 🔄"
+};
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilansh-10&layout=donut)](https://github.com/kapilansh-10/github-readme-stats)
+<br/>
 
-## GitHub Stats
+---
 
-![Kapilansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilansh-10)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kapilansh-10&style=flat-square&color=blue)
+<div align="center">
 
-## Get In Touch
-- Email: [kapilpatil2004@gmail.com](mailto:kapilpatil2004@gmail.com)
+## 🛠️ Tech Stack & Tools
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kapilansh-10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Kapilansh's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilansh-10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+
+<br/>
+<br/>
+
+### 📈 Contribution Graph
+
+[![Kapilansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kapilansh-10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=A177FF&point=58A6FF&area=true&area_color=A177FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💡 Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilpatil2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilansh-10)
+
+<br/>
+
+### 💬 Feel free to reach out for:
+✨ Collaboration on interesting projects  
+💼 Backend development opportunities  
+🤝 Open source contributions  
+☕ Just a friendly chat about tech!
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%8C%9F" alt="Footer" />
+</div>
+
 <!---
 kapilansh-10/kapilansh-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
