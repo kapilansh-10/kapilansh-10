@@ -102,21 +102,6 @@ const kapilansh: Developer = {
 
 <br/>
 
----
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🖌️ [Drawboard](https://github.com/kapilansh-10/Drawboard)
-A creative drawing board application built to unleash digital creativity.
-*   **Stack:** [Add your stack here, e.g., React, Canvas API]
-*   **Features:** Real-time drawing, multiple tools, save functionality.
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
@@ -169,8 +154,7 @@ A creative drawing board application built to unleash digital creativity.
 <!-- Expanded Socials - Add your URLs or remove lines as needed -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilpatil2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilansh-10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-here)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle-here) -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kapilansh_twt)
 
 <br/>
 ### 💬 Feel free to reach out for:
